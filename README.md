@@ -19,7 +19,7 @@
 <img width="1312" height="132" alt="Screenshot 2026-03-29 at 8 08 19 PM" src="https://github.com/user-attachments/assets/3bd68edb-2e67-477e-906a-4471a1a6b6c7" />
 
     
-# 2.  FTP Log Analysis
+# 2.  [FTP Log Analysis](./FTP%20Log%20Analysis/FTP-Log-Analysis-using-SIEM.md)
 
 **Explore how to analyze File Transfer Protocol (FTP) logs using Splunk.**
 
@@ -29,6 +29,8 @@
     Tracking file transfer behavior
     Identifying unusual activity
     Monitoring FTP usage patterns
+    
+<img width="1313" height="153" alt="Screenshot 2026-03-30 at 12 15 54 AM" src="https://github.com/user-attachments/assets/51150549-025d-4bc4-b1b9-822154b61dc6" />
 
 # 3. HTTP Log Analysis
 
