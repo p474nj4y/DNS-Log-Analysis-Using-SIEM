@@ -4,7 +4,7 @@
 
 ## Included Projects
 
-# 1. DNS Log Analysis
+# 1. [DNS Log Analysis](./DNS%20Log%20Analysis/DNS-Log-Analysis-using-SIEM.md)
 
 **A step-by-step guide to analyzing Domain Name System (DNS) logs in Splunk.**
 
