@@ -51,8 +51,8 @@ def generate_log():
             return f"{time} SRC_IP={ip} USER={user} COMMAND={cmd} FILE={file} STATUS=SUCCESS"
 
 
-with open("fp_log.txt", "w") as f:
+with open("ftp_log.txt", "w") as f:
     for _ in range(1200):  # 1000+ lines
         f.write(generate_log() + "\n")
 
-print("✅ fp_log.txt generated with 1200 lines")
+print("ftp_log.txt generated with 1200 lines")
