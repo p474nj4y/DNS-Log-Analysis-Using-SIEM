@@ -146,7 +146,7 @@
     index=* sourcetype=http_sample url="/login" method=POST status=401
     | stats count by src_ip
 
-## Session Analysis:
+## Session Analysis :
 
 <img width="1347" height="534" alt="Screenshot 2026-03-30 at 12 16 22 PM" src="https://github.com/user-attachments/assets/44f76698-1f7d-4f86-ba01-daa7b3f56711" />
 
