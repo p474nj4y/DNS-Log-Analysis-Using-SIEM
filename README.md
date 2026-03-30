@@ -46,7 +46,7 @@
 <img width="1316" height="236" alt="Screenshot 2026-03-30 at 11 34 45 AM" src="https://github.com/user-attachments/assets/c350ffa7-9592-4087-b244-5e16203558ad" />
 
 
-# 4. SSH Log Analysis
+# 4. [SSH Log Analysis](./SSH%20Log%20Analysis%20/SSH-Log-Analysis-using-SIEM.md)
 
 **Dive into Secure Shell (SSH) log analysis for security monitoring.**
 
