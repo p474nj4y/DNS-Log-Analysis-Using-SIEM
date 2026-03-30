@@ -1,0 +1,57 @@
+Mar 30 09:00:01 server1 sshd[2001]: Failed password for invalid user oracle from 185.243.115.12 port 42311 ssh2
+Mar 30 09:00:05 server1 sshd[2001]: Failed password for invalid user oracle from 185.243.115.12 port 42311 ssh2
+Mar 30 09:00:08 server1 sshd[2001]: Failed password for invalid user postgres from 185.243.115.12 port 42311 ssh2
+Mar 30 09:00:12 server1 sshd[2001]: Failed password for invalid user backup from 185.243.115.12 port 42311 ssh2
+
+Mar 30 09:02:20 server1 sshd[2020]: Failed password for root from 91.134.23.77 port 51233 ssh2
+Mar 30 09:02:25 server1 sshd[2020]: Failed password for root from 91.134.23.77 port 51233 ssh2
+Mar 30 09:02:30 server1 sshd[2020]: Failed password for root from 91.134.23.77 port 51233 ssh2
+Mar 30 09:02:35 server1 sshd[2025]: Accepted password for root from 91.134.23.77 port 51233 ssh2
+Mar 30 09:02:35 server1 sshd[2025]: pam_unix(sshd:session): session opened for user root by (uid=0)
+
+Mar 30 09:05:10 server1 sshd[2100]: Accepted password for user1 from 192.168.1.15 port 53421 ssh2
+Mar 30 09:05:10 server1 sshd[2100]: pam_unix(sshd:session): session opened for user user1 by (uid=0)
+
+Mar 30 09:07:45 server1 sshd[2150]: Failed password for invalid user test from 103.56.98.44 port 49002 ssh2
+Mar 30 09:07:49 server1 sshd[2150]: Failed password for invalid user test from 103.56.98.44 port 49002 ssh2
+Mar 30 09:07:55 server1 sshd[2150]: Failed password for invalid user admin from 103.56.98.44 port 49002 ssh2
+
+Mar 30 09:10:12 server1 sshd[2201]: Accepted password for dev from 172.16.0.5 port 52221 ssh2
+Mar 30 09:10:12 server1 sshd[2201]: pam_unix(sshd:session): session opened for user dev by (uid=0)
+
+Mar 30 09:12:30 server1 sshd[2250]: Failed password for user guest from 198.51.100.55 port 60111 ssh2
+Mar 30 09:12:35 server1 sshd[2250]: Failed password for user guest from 198.51.100.55 port 60111 ssh2
+Mar 30 09:12:40 server1 sshd[2250]: Failed password for user guest from 198.51.100.55 port 60111 ssh2
+
+Mar 30 09:15:01 server1 sshd[2300]: Failed password for invalid user ftp from 45.155.205.88 port 45512 ssh2
+Mar 30 09:15:05 server1 sshd[2300]: Failed password for invalid user ftp from 45.155.205.88 port 45512 ssh2
+Mar 30 09:15:10 server1 sshd[2300]: Failed password for invalid user ftp from 45.155.205.88 port 45512 ssh2
+
+Mar 30 09:18:22 server1 sshd[2350]: Accepted password for analyst from 192.168.1.20 port 53001 ssh2
+Mar 30 09:18:22 server1 sshd[2350]: pam_unix(sshd:session): session opened for user analyst by (uid=0)
+
+Mar 30 09:20:45 server1 sshd[2400]: Failed password for root from 178.32.44.199 port 60001 ssh2
+Mar 30 09:20:50 server1 sshd[2400]: Failed password for root from 178.32.44.199 port 60001 ssh2
+Mar 30 09:20:55 server1 sshd[2400]: Failed password for root from 178.32.44.199 port 60001 ssh2
+Mar 30 09:21:01 server1 sshd[2405]: Connection closed by authenticating user root 178.32.44.199 port 60001 [preauth]
+
+Mar 30 09:25:15 server1 sshd[2450]: Accepted password for user2 from 192.168.1.18 port 52100 ssh2
+Mar 30 09:25:15 server1 sshd[2450]: pam_unix(sshd:session): session opened for user user2 by (uid=0)
+
+Mar 30 09:30:10 server1 sshd[2500]: Failed password for invalid user mysql from 167.71.22.11 port 47821 ssh2
+Mar 30 09:30:15 server1 sshd[2500]: Failed password for invalid user mysql from 167.71.22.11 port 47821 ssh2
+Mar 30 09:30:20 server1 sshd[2500]: Failed password for invalid user mysql from 167.71.22.11 port 47821 ssh2
+
+Mar 30 09:35:05 server1 sshd[2550]: Accepted password for admin from 192.168.1.25 port 51000 ssh2
+Mar 30 09:35:05 server1 sshd[2550]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+
+Mar 30 09:40:45 server1 sshd[2600]: Failed password for root from 89.248.172.16 port 60222 ssh2
+Mar 30 09:40:50 server1 sshd[2600]: Failed password for root from 89.248.172.16 port 60222 ssh2
+Mar 30 09:40:55 server1 sshd[2600]: Failed password for root from 89.248.172.16 port 60222 ssh2
+
+Mar 30 09:45:10 server1 sshd[2650]: Accepted password for devops from 172.16.0.10 port 51555 ssh2
+Mar 30 09:45:10 server1 sshd[2650]: pam_unix(sshd:session): session opened for user devops by (uid=0)
+
+Mar 30 09:50:30 server1 sshd[2700]: Failed password for invalid user admin from 102.165.33.90 port 49991 ssh2
+Mar 30 09:50:35 server1 sshd[2700]: Failed password for invalid user admin from 102.165.33.90 port 49991 ssh2
+Mar 30 09:50:40 server1 sshd[2700]: Failed password for invalid user admin from 102.165.33.90 port 49991 ssh2
