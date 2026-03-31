@@ -60,7 +60,7 @@
 <img width="1310" height="159" alt="image" src="https://github.com/user-attachments/assets/b4e67d57-5a94-4956-81c0-f5ff688313af" />
 
     
-# 5. Tunnel Log Analysis
+# 5. [Tunnel Log Analysis](./Tunnel%20Log%20Analysis%20/Tunnel-Log-Analysis-using-SIEM.md)
 
 **Analyze network tunnel traffic (GRE, IPv4, IPv6) using Zeek IDS logs in Splunk.**
 
@@ -70,6 +70,8 @@
      Traffic pattern analysis
      Detecting anomalies in tunneled traffic
      Correlating tunnel logs with other network data
+     
+<img width="1122" height="169" alt="Screenshot 2026-03-31 at 11 57 25 PM" src="https://github.com/user-attachments/assets/087eaf75-9500-4ee5-b59b-3906f1b9bf9d" />
 
 # 6. SMTP Log Analysis
 
