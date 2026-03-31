@@ -12,8 +12,8 @@
 
 **Before starting, ensure:**
 
-**Splunk is installed and configured**
-**Zeek IDS tunnel logs are available or being forwarded to Splunk**
+***Splunk is installed and configured***
+***Zeek IDS tunnel logs are available or being forwarded to Splunk***
 
 # Uploading Tunnel Logs to Splunk
 
