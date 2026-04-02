@@ -73,7 +73,7 @@
      
 <img width="1122" height="169" alt="Screenshot 2026-03-31 at 11 57 25 PM" src="https://github.com/user-attachments/assets/087eaf75-9500-4ee5-b59b-3906f1b9bf9d" />
 
-# 6. SMTP Log Analysis
+# 6. [SMTP Log Analysis](./SMTP%20Log%20Analysis%20/SMTP-Log-Analysis-using-SIEM.md)
 
 **Gain insights into email traffic using SMTP logs.**
 
@@ -83,6 +83,9 @@
     Analyzing mail flow patterns
     Detecting anomalies and potential threats
     Monitoring SMTP activity
+
+<img width="1274" height="157" alt="Screenshot 2026-04-02 at 10 24 13 PM" src="https://github.com/user-attachments/assets/6c004331-e57f-4cf4-bab5-d944923ca857" />
+
 
 # 7. DHCP Log Analysis
 
