@@ -17,7 +17,7 @@
 
 ## Uploading SMTP Logs to Splunk
 
-> **1. Prepare Log Files - in my case the file I used was [smtp.log](./SMTP%20Log%20Analysis)**
+> **1. Prepare Log Files - in my case the file I used was [smtp.log](smtp.log)**
 
 * Collect SMTP logs (e.g., .log, .txt)
 * Ensure logs include:
